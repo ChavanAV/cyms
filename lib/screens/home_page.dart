@@ -53,7 +53,7 @@ class _HomePageState extends State<HomePage> {
         ),
         appBar: AppBar(
           title: const Text("CYMS"),
-          backgroundColor: Colors.teal.withOpacity(.8),
+          backgroundColor: Colors.teal,
           elevation: 0,
           toolbarHeight: 40,
           centerTitle: true,
